@@ -24,7 +24,7 @@
 			],
 			"gameversion": [],
 			"images": [
-				"https://github.com/moosemeat817/ModListJson/blob/main/Shortcuts-Modlist.png"
+				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/Shortcuts-Modlist.jpg"
 			],
 			"dependencies": [
 				"ModSettings"
@@ -68,7 +68,7 @@
 			],
 			"gameversion": [],
 			"images": [
-				"https://github.com/moosemeat817/ModListJson/blob/main/RemoveCougars-Modlist.png"
+				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/RemoveCougars-Modlist.jpg"
 			],
 			"dependencies": [
 				"ModSettings"
@@ -112,7 +112,7 @@
 			],
 			"gameversion": [],
 			"images": [
-				"https://github.com/moosemeat817/ModListJson/blob/main/RemoveCougars-Modlist.png"
+				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/CraftAnywhereRedux-Modlist.jpg"
 			],
 			"dependencies": [
 				"ModSettings"
