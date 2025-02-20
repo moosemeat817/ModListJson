@@ -136,7 +136,49 @@
 			},
 			"aliases": [],
 			"replaces": []
+		},
+		{
+			"type": "mod",
+			"version": "3.0.0",
+			"name": "CustomWhiteout",
+			"displayName": "",
+			"author": "moosemeat",
+			"previousAuthors": "MikeyPdog , ds5678",
+			"released": "2025-02-20",
+			"updated": "2025-02-20",
+			"downloadURL": "https://github.com/moosemeat817/CustomWhiteout/releases/download/3.0.0/CustomWhiteout.dll",
+			"modURL": "https://github.com/moosemeat817/CustomWhiteout",
+			"description": "A mod for the Long Dark letting you experience a custom whiteout challenge.",
+			"tags": "",
+			"categories": [
+				"Gameplay"
+			],
+			"gameversion": [],
+			"images": [
+				"https://github.com/moosemeat817/images/blob/main/CustomWhiteout.jpg"
+			],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.39",
+				"mlversion": "0.6.6"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/moosemeat817/CustomWhiteout/releases/download/3.0.0/CustomWhiteout.dll"
+				]
+			},
+			"aliases": [],
+			"replaces": []
 		}
-		
 	]
 }
