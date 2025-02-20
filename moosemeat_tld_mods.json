@@ -155,7 +155,7 @@
 			],
 			"gameversion": [],
 			"images": [
-				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/CustomWhiteout_modlist.jpg.jpg"
+				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/CustomWhiteout_modlist.jpg"
 			],
 			"dependencies": [
 				"ModSettings"
