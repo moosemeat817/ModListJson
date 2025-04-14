@@ -198,7 +198,7 @@
 			],
 			"gameversion": [],
 			"images": [
-				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/ToolsAsMaterials_modlist.png"
+				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/InventoryReassignments_modlist.png"
 			],
 			"dependencies": [
 				"ModSettings",
