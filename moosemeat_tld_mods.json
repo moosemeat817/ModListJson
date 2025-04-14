@@ -183,14 +183,14 @@
 		{
 			"type": "mod",
 			"version": "1.0.0",
-			"name": "ToolsAsMaterials",
+			"name": "InventoryReassignments",
 			"displayName": "",
 			"author": "moosemeat",
 			"previousAuthors": "",
-			"released": "2025-04-13",
-			"updated": "2025-04-13",
-			"downloadURL": "https://github.com/moosemeat817/ToolsAsMaterials/releases/download/1.0.0/ToolsAsMaterials.dll",
-			"modURL": "https://github.com/moosemeat817/ToolsAsMaterials",
+			"released": "2025-04-14",
+			"updated": "2025-04-14",
+			"downloadURL": "https://github.com/moosemeat817/InventoryReassignments/releases/download/1.0.0/InventoryReassignments.dll",
+			"modURL": "https://github.com/moosemeat817/InventoryReassignments",
 			"description": "A mod for the Long Dark that reassigns some tools to materials.",
 			"tags": "",
 			"categories": [
@@ -201,7 +201,8 @@
 				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/ToolsAsMaterials_modlist.png"
 			],
 			"dependencies": [
-				""
+				"ModSettings",
+				"ComplexLogger"
 			],
 			"status": {
 				"working": true,
@@ -217,7 +218,7 @@
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/moosemeat817/ToolsAsMaterials/releases/download/1.0.0/ToolsAsMaterials.dll"
+					"https://github.com/moosemeat817/InventoryReassignments/releases/download/1.0.0/InventoryReassignments.dll"
 				]
 			},
 			"aliases": [],
