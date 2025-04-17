@@ -182,14 +182,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.0",
+			"version": "1.1.0",
 			"name": "InventoryReassignments",
 			"displayName": "",
 			"author": "moosemeat",
 			"previousAuthors": "",
 			"released": "2025-04-14",
-			"updated": "2025-04-14",
-			"downloadURL": "https://github.com/moosemeat817/InventoryReassignments/releases/download/1.0.0/InventoryReassignments.dll",
+			"updated": "2025-04-17",
+			"downloadURL": "https://github.com/moosemeat817/InventoryReassignments/releases/download/1.1.0/InventoryReassignments.dll",
 			"modURL": "https://github.com/moosemeat817/InventoryReassignments",
 			"description": "This is a mod for The Long Dark that allows players to reassign various gear items to different inventory categories.",
 			"tags": "",
@@ -218,7 +218,7 @@
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/moosemeat817/InventoryReassignments/releases/download/1.0.0/InventoryReassignments.dll"
+					"https://github.com/moosemeat817/InventoryReassignments/releases/download/1.1.0/InventoryReassignments.dll"
 				]
 			},
 			"aliases": [],
