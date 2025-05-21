@@ -223,6 +223,49 @@
 			},
 			"aliases": [],
 			"replaces": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "FriendlyInlet",
+			"displayName": "",
+			"author": "moosemeat",
+			"previousAuthors": "",
+			"released": "2025-05-21",
+			"updated": "2025-05-21",
+			"downloadURL": "https://github.com/moosemeat817/FriendlyInlet/releases/download/1.0.0/FriendlyInlet.dll",
+			"modURL": "https://github.com/moosemeat817/FriendlyInlet",
+			"description": "Make Bleak Inlet more friendly by redistributing wood spawns to the coast and reduce and relocate some wolf spawns.",
+			"tags": "",
+			"categories": [
+				"Gameplay"
+			],
+			"gameversion": [],
+			"images": [
+				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/FriendlyInlet_modlist.png"
+			],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.40",
+				"mlversion": "0.6.6"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/moosemeat817/FriendlyInlet/releases/download/1.0.0/FriendlyInlet.dll"
+				]
+			},
+			"aliases": [],
+			"replaces": []
 		}
 	]
 }
