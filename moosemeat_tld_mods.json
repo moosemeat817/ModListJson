@@ -311,6 +311,49 @@
 			},
 			"aliases": [],
 			"replaces": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "Shooting Range",
+			"displayName": "",
+			"author": "moosemeat",
+			"previousAuthors": "",
+			"released": "2025-07-7",
+			"updated": "2025-07-7",
+			"downloadURL": "https://github.com/moosemeat817/ShootingRange/releases/download/1.0.0/ShootingRange.dll",
+			"modURL": "https://github.com/moosemeat817/PathfindersAscent",
+			"description": "Enable shooting range targets, weather vane, hunting blind, and a warm barn near Pensive Pond in Pleasant Valley.",
+			"tags": "",
+			"categories": [
+				"Gameplay"
+			],
+			"gameversion": [],
+			"images": [
+				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/ShootingRange_modlist.jpg"
+			],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.44",
+				"mlversion": "0.6.6"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/moosemeat817/ShootingRange/releases/download/1.0.0/ShootingRange.dll"
+				]
+			},
+			"aliases": [],
+			"replaces": []
 		}
 	]
 }
