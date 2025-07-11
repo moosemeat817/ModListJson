@@ -322,7 +322,7 @@
 			"released": "2025-07-7",
 			"updated": "2025-07-7",
 			"downloadURL": "https://github.com/moosemeat817/ShootingRange/releases/download/1.0.0/ShootingRange.dll",
-			"modURL": "https://github.com/moosemeat817/PathfindersAscent",
+			"modURL": "https://github.com/moosemeat817/ShootingRange",
 			"description": "Enable shooting range targets, weather vane, hunting blind, and a warm barn near Pensive Pond in Pleasant Valley.",
 			"tags": "",
 			"categories": [
@@ -392,7 +392,7 @@
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/moosemeat817/ShootingRange/releases/download/1.0.1/RavineBridgeFix.dll"
+					"https://github.com/moosemeat817/RavineBridgeFix/releases/download/1.0.1/RavineBridgeFix.dll"
 				]
 			},
 			"aliases": [],
