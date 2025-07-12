@@ -95,14 +95,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.2.0",
+			"version": "1.2.1",
 			"name": "Craft Anywhere Redux",
 			"displayName": "",
 			"author": "moosemeat",
 			"previousAuthors": "",
 			"released": "2025-01-25",
-			"updated": "2025-04-17",
-			"downloadURL": "https://github.com/moosemeat817/CraftAnywhereRedux/releases/download/1.2.0/CraftAnywhereRedux.dll",
+			"updated": "2025-07-12",
+			"downloadURL": "https://github.com/moosemeat817/CraftAnywhereRedux/releases/download/1.2.1/CraftAnywhereRedux.dll",
 			"modURL": "https://github.com/moosemeat817/CraftAnywhereRedux",
 			"description": "Allows you to adjust the crafting location for vanilla craftable items.",
 			"tags": "",
@@ -125,13 +125,13 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.40",
+				"tldversion": "2.44",
 				"mlversion": "0.6.6"
 			},
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/moosemeat817/CraftAnywhereRedux/releases/download/1.2.0/CraftAnywhereRedux.dll"
+					"https://github.com/moosemeat817/CraftAnywhereRedux/releases/download/1.2.1/CraftAnywhereRedux.dll"
 				]
 			},
 			"aliases": [],
