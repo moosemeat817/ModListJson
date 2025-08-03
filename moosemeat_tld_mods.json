@@ -48,51 +48,7 @@
 			},
 			"aliases": [],
 			"replaces": []
-		},
-		{
-			"type": "mod",
-			"version": "1.1.0",
-			"name": "Remove Cougars",
-			"displayName": "",
-			"author": "moosemeat",
-			"previousAuthors": "",
-			"released": "2025-01-25",
-			"updated": "2025-03-28",
-			"downloadURL": "https://github.com/moosemeat817/RemoveCougars/releases/download/1.1/RemoveCougars.dll",
-			"modURL": "https://github.com/moosemeat817/RemoveCougars",
-			"description": "This is a mod for The Long Dark that removes cougars from the various regions they exist.",
-			"tags": "",
-			"categories": [
-				"Quality of Life",
-				"Gameplay"
-			],
-			"gameversion": [],
-			"images": [
-				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/RemoveCougars_modlist.jpg"
-			],
-			"dependencies": [
-				"ModSettings"
-			],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.40",
-				"mlversion": "0.6.6"
-			},
-			"updater": {
-				"enable": true,
-				"downloads": [
-					"https://github.com/moosemeat817/RemoveCougars/releases/download/1.1/RemoveCougars.dll"
-				]
-			},
-			"aliases": [],
-			"replaces": []
-		},
+		},		
 		{
 			"type": "mod",
 			"version": "1.2.1",
