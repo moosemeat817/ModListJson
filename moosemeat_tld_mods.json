@@ -399,14 +399,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "2.0.0",
+			"version": "2.1.0",
 			"name": "Choose Starting Gear",
 			"displayName": "",
 			"author": "moosemeat",
 			"previousAuthors": "",
-			"released": "2025-08-02",
-			"updated": "2025-08-02",
-			"downloadURL": "https://github.com/moosemeat817/ChooseStartingGear/releases/download/2.0.0/ChooseStartingGear.dll",
+			"released": "2025-08-13",
+			"updated": "2025-08-13",
+			"downloadURL": "https://github.com/moosemeat817/ChooseStartingGear/releases/download/2.1.0/ChooseStartingGear.dll",
 			"modURL": "https://github.com/moosemeat817/ChooseStartingGear",
 			"description": "Select the items you would like to start the game with.",
 			"tags": "",
@@ -434,7 +434,7 @@
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/moosemeat817/ChooseStartingGear/releases/download/2.0.0/ChooseStartingGear.dll"
+					"https://github.com/moosemeat817/ChooseStartingGear/releases/download/2.1.0/ChooseStartingGear.dll"
 				]
 			},
 			"aliases": [],
