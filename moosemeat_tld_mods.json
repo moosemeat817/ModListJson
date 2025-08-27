@@ -477,7 +477,7 @@
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/moosemeat817/ChooseStartingGear/releases/download/2.0.0/ChooseStartingGear.dll"
+					"https://github.com/moosemeat817/PredatorSpawnSelector/releases/download/1.0.0/PredatorSpawnSelector.dll"
 				]
 			},
 			"aliases": [],
