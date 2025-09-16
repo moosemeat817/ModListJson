@@ -492,7 +492,7 @@
 			"previousAuthors": "",
 			"released": "2025-09-11",
 			"updated": "2025-09-11",
-			"downloadURL": "https://github.com/moosemeat817/DLC_ChooseStartingGear_DLC/releases/download/1.0.0/DLC_ChooseStartingGear_DLC.dll",
+			"downloadURL": "https://github.com/moosemeat817/DLC_ChooseStartingGear_DLC/releases/download/1.0.0/DLC-ChooseStartingGear-DLC.dll",
 			"modURL": "https://github.com/moosemeat817/DLC_ChooseStartingGear_DLC",
 			"description": "***This mod REQUIRES THE DLC !!!*** Select the items you would like to start the game with including DLC items. ***This mod REQUIRES THE DLC !!!***",
 			"tags": "",
@@ -520,7 +520,7 @@
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/moosemeat817/DLC_ChooseStartingGear_DLC/releases/download/1.0.0/DLC_ChooseStartingGear_DLC.dll"
+					"https://github.com/moosemeat817/DLC_ChooseStartingGear_DLC/releases/download/1.0.0/DLC-ChooseStartingGear-DLC.dll"
 				]
 			},
 			"aliases": [],
