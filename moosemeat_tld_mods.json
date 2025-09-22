@@ -525,6 +525,49 @@
 			},
 			"aliases": [],
 			"replaces": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "Lithar's Ridge",
+			"displayName": "",
+			"author": "moosemeat, Marcy",
+			"previousAuthors": "",
+			"released": "2025-09-22",
+			"updated": "2025-09-22",
+			"downloadURL": "https://github.com/moosemeat817/LitharsRidge/releases/download/1.0.0/LitharsRidge.dll",
+			"modURL": "https://github.com/moosemeat817/LitharsRidge",
+			"description": "A hidden ridge in Bleak Inlet with a cozy hut, scenic overlooks, and a path for explorers to discover.",
+			"tags": "",
+			"categories": [
+				"Gameplay"
+			],
+			"gameversion": [],
+			"images": [
+				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/LitharsRidge_modlist.jpg"
+			],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.44",
+				"mlversion": "0.6.6"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/moosemeat817/LitharsRidge/releases/download/1.0.0/LitharsRidge.dll"
+				]
+			},
+			"aliases": [],
+			"replaces": []
 		}
 	]
 }
