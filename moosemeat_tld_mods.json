@@ -547,7 +547,9 @@
 				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/LitharsRidge_modlist.jpg"
 			],
 			"dependencies": [
-				"ModSettings"
+				"ModSettings",
+				"ModData",
+				"ModComponent"
 			],
 			"status": {
 				"working": true,
