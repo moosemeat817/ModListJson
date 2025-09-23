@@ -535,7 +535,7 @@
 			"previousAuthors": "",
 			"released": "2025-09-22",
 			"updated": "2025-09-22",
-			"downloadURL": "https://github.com/moosemeat817/LitharsRidge/releases/download/1.0.0/LitharsRidge.dll",
+			"downloadURL": "https://github.com/moosemeat817/LitharsRidge/releases/download/1.0.0/LitharsRidge.zip",
 			"modURL": "https://github.com/moosemeat817/LitharsRidge",
 			"description": "A hidden ridge in Bleak Inlet with a cozy hut, scenic overlooks, and a path for explorers to discover.",
 			"tags": "",
@@ -565,7 +565,7 @@
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/moosemeat817/LitharsRidge/releases/download/1.0.0/LitharsRidge.dll"
+					"https://github.com/moosemeat817/LitharsRidge/releases/download/1.0.0/LitharsRidge.zip"
 				]
 			},
 			"aliases": [],
