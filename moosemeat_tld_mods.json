@@ -565,7 +565,7 @@
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/moosemeat817/LitharsRidge/releases/download/1.0.0/LitharsRidge.zip"
+					""
 				]
 			},
 			"aliases": [],
