@@ -570,6 +570,50 @@
 			},
 			"aliases": [],
 			"replaces": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "WildFire",
+			"displayName": "",
+			"author": "moosemeat, Marcy",
+			"previousAuthors": "",
+			"released": "2025-11-13",
+			"updated": "2025-11-13",
+			"downloadURL": "https://github.com/moosemeat817/WildFire/releases/download/1.0.0/WildFire.zip",
+			"modURL": "https://github.com/moosemeat817/WildFire",
+			"description": "This is a mod for The Long Dark that add color, smoke and sparks customization for fires, along with 6 new gear items and makes several vanilla items burnable.",
+			"tags": "",
+			"categories": [
+				"Gameplay"
+			],
+			"gameversion": [],
+			"images": [
+				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/WildFire_Cover.jpg"
+			],
+			"dependencies": [
+				"ModSettings",
+				"ModComponent"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.44",
+				"mlversion": "0.6.6"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					""
+				]
+			},
+			"aliases": [],
+			"replaces": []
 		}
 	]
 }
