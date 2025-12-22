@@ -499,7 +499,10 @@
 			"categories": [
 				"Gameplay"
 			],
-			"gameversion": [],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
 			"images": [
 				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/DLC_ChooseStartingGear_DLC_modlist.jpg"
 			],
