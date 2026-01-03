@@ -6,25 +6,23 @@
 	"mods": [
 		{
 			"type": "mod",
-			"version": "1.8.2",
-			"name": "Shortcuts",
+			"version": "2.1.0",
+			"name": "Choose Starting Gear",
 			"displayName": "",
 			"author": "moosemeat",
 			"previousAuthors": "",
-			"released": "2025-01-25",
-			"updated": "2025-09-16",
-			"downloadURL": "https://github.com/moosemeat817/Shortcuts/releases/download/1.8.2/Shortcuts.dll",
-			"modURL": "https://github.com/moosemeat817/Shortcuts",
-			"description": "Adds a variety of shortcuts to some regions. You will need to reload the game for the changes to take effect.",
+			"released": "2025-08-13",
+			"updated": "2025-08-13",
+			"downloadURL": "https://github.com/moosemeat817/ChooseStartingGear/releases/download/2.1.0/ChooseStartingGear.dll",
+			"modURL": "https://github.com/moosemeat817/ChooseStartingGear",
+			"description": "Select the items you would like to start the game with.",
 			"tags": "",
 			"categories": [
-				"Quality of Life",
-				"Gameplay",
-				"Cheats"
+				"Gameplay"
 			],
 			"gameversion": [],
 			"images": [
-				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/Shortcuts_modlist_new.jpg"
+				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/ChooseStartingGear_modlist.jpg"
 			],
 			"dependencies": [
 				"ModSettings"
@@ -43,12 +41,12 @@
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/moosemeat817/Shortcuts/releases/download/1.8.2/Shortcuts.dll"
+					"https://github.com/moosemeat817/ChooseStartingGear/releases/download/2.1.0/ChooseStartingGear.dll"
 				]
 			},
 			"aliases": [],
 			"replaces": []
-		},		
+		},
 		{
 			"type": "mod",
 			"version": "1.2.1",
@@ -138,6 +136,138 @@
 		},
 		{
 			"type": "mod",
+			"version": "1.3.0",
+			"name": "DLC - Choose Starting Gear - DLC",
+			"displayName": "",
+			"author": "moosemeat",
+			"previousAuthors": "",
+			"released": "2025-09-11",
+			"updated": "2025-10-10",
+			"downloadURL": "https://github.com/moosemeat817/DLC_ChooseStartingGear_DLC/releases/download/1.3.0/DLC-ChooseStartingGear-DLC.dll",
+			"modURL": "https://github.com/moosemeat817/DLC_ChooseStartingGear_DLC",
+			"description": "***This mod REQUIRES THE DLC !!!*** Select the items you would like to start the game with including DLC items. ***This mod REQUIRES THE DLC !!!***",
+			"tags": "",
+			"categories": [
+				"Gameplay"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [
+				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/DLC_ChooseStartingGear_DLC_modlist.jpg"
+			],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.44",
+				"mlversion": "0.6.6"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/moosemeat817/DLC_ChooseStartingGear_DLC/releases/download/1.3.0/DLC-ChooseStartingGear-DLC.dll"
+				]
+			},
+			"aliases": [],
+			"replaces": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "Fortified Lookouts",
+			"displayName": "",
+			"author": "moosemeat",
+			"previousAuthors": "",
+			"released": "2025-07-25",
+			"updated": "2025-07-25",
+			"downloadURL": "https://github.com/moosemeat817/FortifiedLookouts/releases/download/1.0.0/FortifiedLookouts.dll",
+			"modURL": "https://github.com/moosemeat817/FortifiedLookouts",
+			"description": "Increase the size, add a second regular sized embedded lookout, and raise the windows for a clear view for the lookouts in Mystery Lake, Coastal Highway and Bleak Inlet.",
+			"tags": "",
+			"categories": [
+				"Gameplay"
+			],
+			"gameversion": [],
+			"images": [
+				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/FortifiedLookouts_modlist.jpg"
+			],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.44",
+				"mlversion": "0.6.6"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/moosemeat817/FortifiedLookouts/releases/download/1.0.0/FortifiedLookouts.dll"
+				]
+			},
+			"aliases": [],
+			"replaces": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "FriendlyInlet",
+			"displayName": "",
+			"author": "moosemeat",
+			"previousAuthors": "",
+			"released": "2025-05-21",
+			"updated": "2025-05-21",
+			"downloadURL": "https://github.com/moosemeat817/FriendlyInlet/releases/download/1.0.0/FriendlyInlet.dll",
+			"modURL": "https://github.com/moosemeat817/FriendlyInlet",
+			"description": "Make Bleak Inlet more friendly by redistributing wood spawns to the coast and reduce and relocate some wolf spawns.",
+			"tags": "",
+			"categories": [
+				"Gameplay"
+			],
+			"gameversion": [],
+			"images": [
+				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/FriendlyInlet_modlistA.png"
+			],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.40",
+				"mlversion": "0.6.6"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/moosemeat817/FriendlyInlet/releases/download/1.0.0/FriendlyInlet.dll"
+				]
+			},
+			"aliases": [],
+			"replaces": []
+		},
+		{
+			"type": "mod",
 			"version": "1.1.0",
 			"name": "InventoryReassignments",
 			"displayName": "",
@@ -182,26 +312,28 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.0",
-			"name": "FriendlyInlet",
+			"version": "1.3.0",
+			"name": "Lithar's Ridge",
 			"displayName": "",
-			"author": "moosemeat",
+			"author": "moosemeat, Marcy",
 			"previousAuthors": "",
-			"released": "2025-05-21",
-			"updated": "2025-05-21",
-			"downloadURL": "https://github.com/moosemeat817/FriendlyInlet/releases/download/1.0.0/FriendlyInlet.dll",
-			"modURL": "https://github.com/moosemeat817/FriendlyInlet",
-			"description": "Make Bleak Inlet more friendly by redistributing wood spawns to the coast and reduce and relocate some wolf spawns.",
+			"released": "2025-09-22",
+			"updated": "2025-10-11",
+			"downloadURL": "https://github.com/moosemeat817/LitharsRidge/releases/download/1.3.0/LitharsRidge.zip",
+			"modURL": "https://github.com/moosemeat817/LitharsRidge",
+			"description": "A hidden ridge in Bleak Inlet with a cozy hut, scenic overlooks, and a path for explorers to discover.",
 			"tags": "",
 			"categories": [
 				"Gameplay"
 			],
 			"gameversion": [],
 			"images": [
-				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/FriendlyInlet_modlistA.png"
+				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/LitharsRidge_Exp_modlist.jpg"
 			],
 			"dependencies": [
-				"ModSettings"
+				"ModSettings",
+				"ModData",
+				"ModComponent"
 			],
 			"status": {
 				"working": true,
@@ -211,13 +343,13 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.40",
+				"tldversion": "2.44",
 				"mlversion": "0.6.6"
 			},
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/moosemeat817/FriendlyInlet/releases/download/1.0.0/FriendlyInlet.dll"
+					""
 				]
 			},
 			"aliases": [],
@@ -270,23 +402,23 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.1",
-			"name": "Shooting Range",
+			"version": "1.1.0",
+			"name": "Predator Spawn Selector",
 			"displayName": "",
 			"author": "moosemeat",
 			"previousAuthors": "",
-			"released": "2025-07-7",
-			"updated": "2025-07-7",
-			"downloadURL": "https://github.com/moosemeat817/ShootingRange/releases/download/1.0.1/ShootingRange.dll",
-			"modURL": "https://github.com/moosemeat817/ShootingRange",
-			"description": "Enable shooting range targets, weather vane, hunting blind, and a warm barn near Pensive Pond in Pleasant Valley.",
+			"released": "2025-08-03",
+			"updated": "2025-09-21",
+			"downloadURL": "https://github.com/moosemeat817/PredatorSpawnSelector/releases/download/1.1.0/PredatorSpawnSelector.dll",
+			"modURL": "https://github.com/moosemeat817/PredatorSpawnSelector",
+			"description": "Enable or disable predator spawns by region and select which type of wolves or bears for each region. ***This mod replaces both Remove Cougars and Timberwolves Anywhere***",
 			"tags": "",
 			"categories": [
 				"Gameplay"
 			],
 			"gameversion": [],
 			"images": [
-				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/ShootingRange_modlist.jpg"
+				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/PredatorSpawnSelector_MODLIST.jpg"
 			],
 			"dependencies": [
 				"ModSettings"
@@ -305,7 +437,7 @@
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/moosemeat817/ShootingRange/releases/download/1.0.1/ShootingRange.dll"
+					"https://github.com/moosemeat817/PredatorSpawnSelector/releases/download/1.1.0/PredatorSpawnSelector.dll"
 				]
 			},
 			"aliases": [],
@@ -356,23 +488,23 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.0",
-			"name": "Fortified Lookouts",
+			"version": "1.0.1",
+			"name": "Shooting Range",
 			"displayName": "",
 			"author": "moosemeat",
 			"previousAuthors": "",
-			"released": "2025-07-25",
-			"updated": "2025-07-25",
-			"downloadURL": "https://github.com/moosemeat817/FortifiedLookouts/releases/download/1.0.0/FortifiedLookouts.dll",
-			"modURL": "https://github.com/moosemeat817/FortifiedLookouts",
-			"description": "Increase the size, add a second regular sized embedded lookout, and raise the windows for a clear view for the lookouts in Mystery Lake, Coastal Highway and Bleak Inlet.",
+			"released": "2025-07-7",
+			"updated": "2025-07-7",
+			"downloadURL": "https://github.com/moosemeat817/ShootingRange/releases/download/1.0.1/ShootingRange.dll",
+			"modURL": "https://github.com/moosemeat817/ShootingRange",
+			"description": "Enable shooting range targets, weather vane, hunting blind, and a warm barn near Pensive Pond in Pleasant Valley.",
 			"tags": "",
 			"categories": [
 				"Gameplay"
 			],
 			"gameversion": [],
 			"images": [
-				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/FortifiedLookouts_modlist.jpg"
+				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/ShootingRange_modlist.jpg"
 			],
 			"dependencies": [
 				"ModSettings"
@@ -391,7 +523,7 @@
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/moosemeat817/FortifiedLookouts/releases/download/1.0.0/FortifiedLookouts.dll"
+					"https://github.com/moosemeat817/ShootingRange/releases/download/1.0.1/ShootingRange.dll"
 				]
 			},
 			"aliases": [],
@@ -399,23 +531,25 @@
 		},
 		{
 			"type": "mod",
-			"version": "2.1.0",
-			"name": "Choose Starting Gear",
+			"version": "1.8.2",
+			"name": "Shortcuts",
 			"displayName": "",
 			"author": "moosemeat",
 			"previousAuthors": "",
-			"released": "2025-08-13",
-			"updated": "2025-08-13",
-			"downloadURL": "https://github.com/moosemeat817/ChooseStartingGear/releases/download/2.1.0/ChooseStartingGear.dll",
-			"modURL": "https://github.com/moosemeat817/ChooseStartingGear",
-			"description": "Select the items you would like to start the game with.",
+			"released": "2025-01-25",
+			"updated": "2025-09-16",
+			"downloadURL": "https://github.com/moosemeat817/Shortcuts/releases/download/1.8.2/Shortcuts.dll",
+			"modURL": "https://github.com/moosemeat817/Shortcuts",
+			"description": "Adds a variety of shortcuts to some regions. You will need to reload the game for the changes to take effect.",
 			"tags": "",
 			"categories": [
-				"Gameplay"
+				"Quality of Life",
+				"Gameplay",
+				"Cheats"
 			],
 			"gameversion": [],
 			"images": [
-				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/ChooseStartingGear_modlist.jpg"
+				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/Shortcuts_modlist_new.jpg"
 			],
 			"dependencies": [
 				"ModSettings"
@@ -434,141 +568,7 @@
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/moosemeat817/ChooseStartingGear/releases/download/2.1.0/ChooseStartingGear.dll"
-				]
-			},
-			"aliases": [],
-			"replaces": []
-		},
-		{
-			"type": "mod",
-			"version": "1.1.0",
-			"name": "Predator Spawn Selector",
-			"displayName": "",
-			"author": "moosemeat",
-			"previousAuthors": "",
-			"released": "2025-08-03",
-			"updated": "2025-09-21",
-			"downloadURL": "https://github.com/moosemeat817/PredatorSpawnSelector/releases/download/1.1.0/PredatorSpawnSelector.dll",
-			"modURL": "https://github.com/moosemeat817/PredatorSpawnSelector",
-			"description": "Enable or disable predator spawns by region and select which type of wolves or bears for each region. ***This mod replaces both Remove Cougars and Timberwolves Anywhere***",
-			"tags": "",
-			"categories": [
-				"Gameplay"
-			],
-			"gameversion": [],
-			"images": [
-				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/PredatorSpawnSelector_MODLIST.jpg"
-			],
-			"dependencies": [
-				"ModSettings"
-			],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.44",
-				"mlversion": "0.6.6"
-			},
-			"updater": {
-				"enable": true,
-				"downloads": [
-					"https://github.com/moosemeat817/PredatorSpawnSelector/releases/download/1.1.0/PredatorSpawnSelector.dll"
-				]
-			},
-			"aliases": [],
-			"replaces": []
-		},
-		{
-			"type": "mod",
-			"version": "1.3.0",
-			"name": "DLC - Choose Starting Gear - DLC",
-			"displayName": "",
-			"author": "moosemeat",
-			"previousAuthors": "",
-			"released": "2025-09-11",
-			"updated": "2025-10-10",
-			"downloadURL": "https://github.com/moosemeat817/DLC_ChooseStartingGear_DLC/releases/download/1.3.0/DLC-ChooseStartingGear-DLC.dll",
-			"modURL": "https://github.com/moosemeat817/DLC_ChooseStartingGear_DLC",
-			"description": "***This mod REQUIRES THE DLC !!!*** Select the items you would like to start the game with including DLC items. ***This mod REQUIRES THE DLC !!!***",
-			"tags": "",
-			"categories": [
-				"Gameplay"
-			],
-			"gameversion": [
-				"vanilla",
-				"tftft"
-			],
-			"images": [
-				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/DLC_ChooseStartingGear_DLC_modlist.jpg"
-			],
-			"dependencies": [
-				"ModSettings"
-			],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.44",
-				"mlversion": "0.6.6"
-			},
-			"updater": {
-				"enable": true,
-				"downloads": [
-					"https://github.com/moosemeat817/DLC_ChooseStartingGear_DLC/releases/download/1.3.0/DLC-ChooseStartingGear-DLC.dll"
-				]
-			},
-			"aliases": [],
-			"replaces": []
-		},
-		{
-			"type": "mod",
-			"version": "1.3.0",
-			"name": "Lithar's Ridge",
-			"displayName": "",
-			"author": "moosemeat, Marcy",
-			"previousAuthors": "",
-			"released": "2025-09-22",
-			"updated": "2025-10-11",
-			"downloadURL": "https://github.com/moosemeat817/LitharsRidge/releases/download/1.3.0/LitharsRidge.zip",
-			"modURL": "https://github.com/moosemeat817/LitharsRidge",
-			"description": "A hidden ridge in Bleak Inlet with a cozy hut, scenic overlooks, and a path for explorers to discover.",
-			"tags": "",
-			"categories": [
-				"Gameplay"
-			],
-			"gameversion": [],
-			"images": [
-				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/LitharsRidge_Exp_modlist.jpg"
-			],
-			"dependencies": [
-				"ModSettings",
-				"ModData",
-				"ModComponent"
-			],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.44",
-				"mlversion": "0.6.6"
-			},
-			"updater": {
-				"enable": true,
-				"downloads": [
-					""
+					"https://github.com/moosemeat817/Shortcuts/releases/download/1.8.2/Shortcuts.dll"
 				]
 			},
 			"aliases": [],
