@@ -231,7 +231,7 @@
 			"author": "moosemeat",
 			"previousAuthors": "",
 			"released": "2025-05-21",
-			"updated": "2025-05-21",
+			"updated": "2026-01-03",
 			"downloadURL": "https://github.com/moosemeat817/FriendlyInlet/releases/download/1.1.0/FriendlyInlet.dll",
 			"modURL": "https://github.com/moosemeat817/FriendlyInlet",
 			"description": "Make Bleak Inlet more friendly by redistributing wood spawns to the coast and reduce and relocate some wolf spawns.",
@@ -274,7 +274,7 @@
 			"author": "moosemeat",
 			"previousAuthors": "",
 			"released": "2025-04-14",
-			"updated": "2025-04-17",
+			"updated": "2026-01-03",
 			"downloadURL": "https://github.com/moosemeat817/InventoryReassignments/releases/download/1.2.0/InventoryReassignments.dll",
 			"modURL": "https://github.com/moosemeat817/InventoryReassignments",
 			"description": "This is a mod for The Long Dark that allows players to reassign various gear items to different inventory categories.",
@@ -387,8 +387,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.44",
-				"mlversion": "0.6.6"
+				"tldversion": "2.51",
+				"mlversion": "0.7.2"
 			},
 			"updater": {
 				"enable": true,
@@ -450,7 +450,7 @@
 			"author": "moosemeat",
 			"previousAuthors": "",
 			"released": "2025-07-10",
-			"updated": "2025-07-11",
+			"updated": "2026-01-03",
 			"downloadURL": "https://github.com/moosemeat817/RavineBridgeFix/releases/download/1.1.0/RavineBridgeFix.dll",
 			"modURL": "https://github.com/moosemeat817/RavineBridgeFix",
 			"description": "Fix the bridge in the Ravine..",
@@ -493,7 +493,7 @@
 			"author": "moosemeat",
 			"previousAuthors": "",
 			"released": "2025-07-7",
-			"updated": "2025-07-7",
+			"updated": "2026-01-03",
 			"downloadURL": "https://github.com/moosemeat817/ShootingRange/releases/download/1.2.0/ShootingRange.dll",
 			"modURL": "https://github.com/moosemeat817/ShootingRange",
 			"description": "Enable shooting range targets, weather vane, hunting blind, and a warm barn near Pensive Pond in Pleasant Valley.",
