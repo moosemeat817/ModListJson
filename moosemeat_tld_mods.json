@@ -22,7 +22,7 @@
 			],
 			"gameversion": [],
 			"images": [
-				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/ChooseStartingGear_modlist.jpg"
+				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/ChooseStartingGear.jpg"
 			],
 			"dependencies": [
 				"ModSettings"
