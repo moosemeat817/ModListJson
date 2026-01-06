@@ -22,7 +22,7 @@
 			],
 			"gameversion": [],
 			"images": [
-				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/ChooseStartingGear_ML.jpg"
+				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/ML_ChooseStartingGear.jpg"
 			],
 			"dependencies": [
 				"ModSettings"
@@ -66,7 +66,7 @@
 			],
 			"gameversion": [],
 			"images": [
-				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/CraftAnywhereRedux_modlist.jpg"
+				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/ML_CraftAnywhereRedux.jpg"
 			],
 			"dependencies": [
 				"ModSettings"
@@ -109,7 +109,7 @@
 			],
 			"gameversion": [],
 			"images": [
-				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/CustomWhiteout_modlist.jpg"
+				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/ML_CustomWhiteout.jpg"
 			],
 			"dependencies": [
 				"ModSettings"
@@ -155,7 +155,7 @@
 				"tftft"
 			],
 			"images": [
-				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/DLC_ChooseStartingGear_DLC_modlist.jpg"
+				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/ML_DLC-ChooseStartingGear.jpg"
 			],
 			"dependencies": [
 				"ModSettings"
@@ -198,7 +198,7 @@
 			],
 			"gameversion": [],
 			"images": [
-				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/FortifiedLookouts_modlist.jpg"
+				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/ML_FortifiedLookouts.jpg"
 			],
 			"dependencies": [
 				"ModSettings"
@@ -241,7 +241,7 @@
 			],
 			"gameversion": [],
 			"images": [
-				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/FriendlyInlet_modlistA.png"
+				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/ML_FriendlyInlet.jpg"
 			],
 			"dependencies": [
 				"ModSettings"
@@ -284,7 +284,7 @@
 			],
 			"gameversion": [],
 			"images": [
-				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/InventoryReassignments_modlist.png"
+				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/ML_InventoryReassignments.jpg"
 			],
 			"dependencies": [
 				"ModSettings"
@@ -327,7 +327,7 @@
 			],
 			"gameversion": [],
 			"images": [
-				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/LitharsRidge_Exp_modlist.jpg"
+				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/ML_LitharsRidge.jpg"
 			],
 			"dependencies": [
 				"ModSettings",
@@ -372,7 +372,7 @@
 			],
 			"gameversion": [],
 			"images": [
-				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/PathfindersAscent_modlist2.jpg"
+				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/ML_PathfindersAscent.jpg"
 			],
 			"dependencies": [
 				"ModSettings",
@@ -417,7 +417,7 @@
 			],
 			"gameversion": [],
 			"images": [
-				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/PredatorSpawnSelector_MODLIST.jpg"
+				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/ML_PredatorSpawnSelector.jpg"
 			],
 			"dependencies": [
 				"ModSettings"
@@ -460,7 +460,7 @@
 			],
 			"gameversion": [],
 			"images": [
-				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/RavineBridgeFix_modlist.png"
+				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/ML_RavineBridgeFix.jpg"
 			],
 			"dependencies": [
 				"ModSettings"
@@ -503,7 +503,7 @@
 			],
 			"gameversion": [],
 			"images": [
-				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/ShootingRange_modlist.jpg"
+				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/ML_ShootingRange.jpg"
 			],
 			"dependencies": [
 				"ModSettings"
@@ -548,7 +548,7 @@
 			],
 			"gameversion": [],
 			"images": [
-				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/Shortcuts_modlist_new.jpg"
+				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/ML_Shortcuts.jpg"
 			],
 			"dependencies": [
 				"ModSettings"
