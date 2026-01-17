@@ -183,6 +183,51 @@
 		{
 			"type": "mod",
 			"version": "1.1.0",
+			"name": "Export Journal",
+			"displayName": "",
+			"author": "MooseMeat",
+			"previousAuthors": "",
+			"released": "2026-01-16",
+			"updated": "2026-01-16",
+			"downloadURL": "https://github.com/moosemeat817/ExportJournal/releases/download/1.1.0/ExportJournal.dll",
+			"modURL": "https://github.com/moosemeat817/ExportJournal",
+			"description": "A mod for The Long Dark (2.51+) which allows the player to export the journal data of the active save game.",
+			"tags": "",
+			"categories": [
+				"Gameplay"
+			],
+			"gameversion": [
+				"vanilla"
+			],
+			"images": [
+				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/ML_ExportJournal.jpg"
+			],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.51",
+				"mlversion": "0.7.2"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/moosemeat817/ExportJournal/releases/download/1.1.0/ExportJournal.dll"
+				]
+			},
+			"aliases": [],
+			"replaces": []
+		},
+		{
+			"type": "mod",
+			"version": "1.1.0",
 			"name": "Fortified Lookouts",
 			"displayName": "",
 			"author": "MooseMeat",
