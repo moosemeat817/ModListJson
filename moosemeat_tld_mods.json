@@ -438,7 +438,7 @@
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/moosemeat817/PathfindersAscent/releases/download/1.3.0/PathfindersAscent.zip"
+					""
 				]
 			},
 			"aliases": [],
