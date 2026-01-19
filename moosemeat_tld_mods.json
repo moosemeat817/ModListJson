@@ -391,7 +391,7 @@
 				"mlversion": "0.7.2"
 			},
 			"updater": {
-				"enable": true,
+				"enable": false,
 				"downloads": [
 					""
 				]
@@ -436,7 +436,7 @@
 				"mlversion": "0.7.2"
 			},
 			"updater": {
-				"enable": true,
+				"enable": false,
 				"downloads": [
 					""
 				]
