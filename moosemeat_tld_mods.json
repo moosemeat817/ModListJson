@@ -6,15 +6,15 @@
 	"mods": [
 		{
 			"type": "mod",
-			"version": "2.2.0",
-			"name": "Choose Starting Gear",
+			"version": "1.0.0",
+			"name": "Choose Starting Gear Redux",
 			"displayName": "",
 			"author": "MooseMeat",
 			"previousAuthors": "",
-			"released": "2025-08-13",
-			"updated": "2026-01-03",
-			"downloadURL": "https://github.com/moosemeat817/ChooseStartingGear/releases/download/2.2.0/ChooseStartingGear.dll",
-			"modURL": "https://github.com/moosemeat817/ChooseStartingGear",
+			"released": "2026-01-30",
+			"updated": "2026-01-30",
+			"downloadURL": "https://github.com/moosemeat817/ChooseStartingGearRedux/releases/download/1.0.0/ChooseStartingGearRedux.dll",
+			"modURL": "https://github.com/moosemeat817/ChooseStartingGearRedux",
 			"description": "Select the items you would like to start the game with.",
 			"tags": "",
 			"categories": [
@@ -22,7 +22,7 @@
 			],
 			"gameversion": [],
 			"images": [
-				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/ML_ChooseStartingGear.jpg"
+				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/ML_ChooseStartingGearRedux.jpg"
 			],
 			"dependencies": [
 				"ModSettings"
@@ -41,7 +41,7 @@
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/moosemeat817/ChooseStartingGear/releases/download/2.2.0/ChooseStartingGear.dll"
+					"https://github.com/moosemeat817/ChooseStartingGearRedux/releases/download/1.0.0/ChooseStartingGearRedux.dll"
 				]
 			},
 			"aliases": [],
@@ -129,52 +129,6 @@
 				"enable": true,
 				"downloads": [
 					"https://github.com/moosemeat817/CustomWhiteout/releases/download/3.1.0/CustomWhiteout.dll"
-				]
-			},
-			"aliases": [],
-			"replaces": []
-		},
-		{
-			"type": "mod",
-			"version": "1.4.0",
-			"name": "DLC - Choose Starting Gear - DLC",
-			"displayName": "",
-			"author": "MooseMeat",
-			"previousAuthors": "",
-			"released": "2025-09-11",
-			"updated": "2026-01-03",
-			"downloadURL": "https://github.com/moosemeat817/DLC_ChooseStartingGear_DLC/releases/download/1.4.0/DLC-ChooseStartingGear-DLC.dll",
-			"modURL": "https://github.com/moosemeat817/DLC_ChooseStartingGear_DLC",
-			"description": "***This mod REQUIRES THE DLC !!!*** Select the items you would like to start the game with including DLC items. ***This mod REQUIRES THE DLC !!!***",
-			"tags": "",
-			"categories": [
-				"Gameplay"
-			],
-			"gameversion": [
-				"vanilla",
-				"tftft"
-			],
-			"images": [
-				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/ML_DLC-ChooseStartingGear.jpg"
-			],
-			"dependencies": [
-				"ModSettings"
-			],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.51",
-				"mlversion": "0.7.2"
-			},
-			"updater": {
-				"enable": true,
-				"downloads": [
-					"https://github.com/moosemeat817/DLC_ChooseStartingGear_DLC/releases/download/1.4.0/DLC-ChooseStartingGear-DLC.dll"
 				]
 			},
 			"aliases": [],
