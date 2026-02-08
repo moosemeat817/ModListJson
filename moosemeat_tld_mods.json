@@ -7,6 +7,49 @@
 		{
 			"type": "mod",
 			"version": "1.0.0",
+			"name": "Bricklayers Door Fix",
+			"displayName": "",
+			"author": "MooseMeat",
+			"previousAuthors": "",
+			"released": "2026-02-08",
+			"updated": "2026-02-08",
+			"downloadURL": "https://github.com/moosemeat817/BricklayersDoorFix/releases/download/1.0.0/BricklayersDoorFix.dll",
+			"modURL": "https://github.com/moosemeat817/BricklayersDoorFix",
+			"description": "Fix the door at Bricklayer's Retreat.",
+			"tags": "",
+			"categories": [
+				"Gameplay"
+			],
+			"gameversion": [],
+			"images": [
+				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/ML-BricklayersDoorFix.jpg"
+			],
+			"dependencies": [
+				""
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.51",
+				"mlversion": "0.7.2"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/moosemeat817/BricklayersDoorFix/releases/download/1.0.0/BricklayersDoorFix.dll"
+				]
+			},
+			"aliases": [],
+			"replaces": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
 			"name": "Choose Starting Gear Redux",
 			"displayName": "",
 			"author": "MooseMeat",
