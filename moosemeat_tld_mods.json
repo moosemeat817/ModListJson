@@ -224,14 +224,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.1.0",
+			"version": "1.1.1",
 			"name": "Fortified Lookouts",
 			"displayName": "",
 			"author": "MooseMeat",
 			"previousAuthors": "",
 			"released": "2025-07-25",
-			"updated": "2026-01-03",
-			"downloadURL": "https://github.com/moosemeat817/FortifiedLookouts/releases/download/1.1.0/FortifiedLookouts.dll",
+			"updated": "2026-02-22",
+			"downloadURL": "https://github.com/moosemeat817/FortifiedLookouts/releases/download/1.1.1/FortifiedLookouts.dll",
 			"modURL": "https://github.com/moosemeat817/FortifiedLookouts",
 			"description": "Increase the size, add a second regular sized embedded lookout, and raise the windows for a clear view for the lookouts in Mystery Lake, Coastal Highway and Bleak Inlet.",
 			"tags": "",
@@ -259,7 +259,7 @@
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/moosemeat817/FortifiedLookouts/releases/download/1.1.0/FortifiedLookouts.dll"
+					"https://github.com/moosemeat817/FortifiedLookouts/releases/download/1.1.1/FortifiedLookouts.dll"
 				]
 			},
 			"aliases": [],
