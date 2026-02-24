@@ -310,49 +310,6 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.0",
-			"name": "GreatBareIsland",
-			"displayName": "",
-			"author": "MooseMeat",
-			"previousAuthors": "",
-			"released": "2026-02-24",
-			"updated": "2026-02-24",
-			"downloadURL": "https://github.com/moosemeat817/GreatBareIsland/releases/download/1.0.0/GreatBareIsland.dll",
-			"modURL": "https://github.com/moosemeat817/GreatBareIsland",
-			"description": "An alternate version of Great Bear Island that removes most cabins, trailers and houses or replaces them with ruins.",
-			"tags": "",
-			"categories": [
-				"Gameplay"
-			],
-			"gameversion": [],
-			"images": [
-				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/ML_GreatBareIsland.jpg"
-			],
-			"dependencies": [
-				"ModSettings"
-			],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.51",
-				"mlversion": "0.7.2"
-			},
-			"updater": {
-				"enable": true,
-				"downloads": [
-					"https://github.com/moosemeat817/GreatBareIsland/releases/download/1.0.0/GreatBareIsland.dll"
-				]
-			},
-			"aliases": [],
-			"replaces": []
-		},
-		{
-			"type": "mod",
 			"version": "1.2.0",
 			"name": "InventoryReassignments",
 			"displayName": "",
