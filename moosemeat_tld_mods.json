@@ -529,6 +529,49 @@
 		},
 		{
 			"type": "mod",
+			"version": "1.0.0",
+			"name": "PreserveContainerItems",
+			"displayName": "",
+			"author": "MooseMeat",
+			"previousAuthors": "",
+			"released": "2026-02-28",
+			"updated": "2026-02-28",
+			"downloadURL": "https://github.com/moosemeat817/PreserveContainerItems/releases/download/1.0.0/PreserveContainerItems.dll",
+			"modURL": "https://github.com/moosemeat817/PreserveContainerItems",
+			"description": "Gear items that are at 0% condition will no longer disappear from containers.  CAUTION: Has not been tested on every single type of container, so be careful.",
+			"tags": "",
+			"categories": [
+				"Gameplay"
+			],
+			"gameversion": [],
+			"images": [
+				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/ML_PreserveContainerItems.jpg"
+			],
+			"dependencies": [
+				""
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.51",
+				"mlversion": "0.7.2"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/moosemeat817/PredatorSpawnSelector/releases/download/1.3.1/PredatorSpawnSelector.dll"
+				]
+			},
+			"aliases": [],
+			"replaces": []
+		},
+		{
+			"type": "mod",
 			"version": "1.1.0",
 			"name": "Ravine Bridge Fix",
 			"displayName": "",
