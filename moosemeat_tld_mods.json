@@ -530,7 +530,7 @@
 		{
 			"type": "mod",
 			"version": "1.0.0",
-			"name": "PreserveContainerItems",
+			"name": "Preserve Container Items",
 			"displayName": "",
 			"author": "MooseMeat",
 			"previousAuthors": "",
