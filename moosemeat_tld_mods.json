@@ -659,6 +659,49 @@
 		},
 		{
 			"type": "mod",
+			"version": "0.5.0",
+			"name": "Recording Utils",
+			"displayName": "",
+			"author": "MooseMeat",
+			"previousAuthors": "",
+			"released": "2026-03-10",
+			"updated": "2026-03-10",
+			"downloadURL": "https://github.com/moosemeat817/RecordingUtils/releases/download/0.5.0/RecordingUtils.dll",
+			"modURL": "https://github.com/moosemeat817/RecordingUtils",
+			"description": "Mod for the Long Dark that adds better camera control for recording or streaming purposes.",
+			"tags": "",
+			"categories": [
+				"Gameplay"
+			],
+			"gameversion": [],
+			"images": [
+				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/ML_RecordingUtils.jpg"
+			],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.51",
+				"mlversion": "0.7.2"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/moosemeat817/RecordingUtils/releases/download/0.5.0/RecordingUtils.dll"
+				]
+			},
+			"aliases": [],
+			"replaces": []
+		},
+		{
+			"type": "mod",
 			"version": "1.2.0",
 			"name": "Shooting Range",
 			"displayName": "",
