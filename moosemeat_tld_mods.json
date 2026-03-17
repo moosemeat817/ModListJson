@@ -396,6 +396,49 @@
 		},
 		{
 			"type": "mod",
+			"version": "3.0.0",
+			"name": "Item Piles",
+			"displayName": "",
+			"author": "MooseMeat, Atlus Lumi",
+			"previousAuthors": "",
+			"released": "2026-03-17",
+			"updated": "2026-03-17",
+			"downloadURL": "https://github.com/moosemeat817/ItemPiles/releases/download/3.0.0/ItemPiles.modcomponent",
+			"modURL": "https://github.com/moosemeat817/ItemPiles",
+			"description": "Adds blueprints for stacked items.",
+			"tags": "",
+			"categories": [
+				"Gameplay"
+			],
+			"gameversion": [],
+			"images": [
+				"https://github.com/moosemeat817/ModListJson/blob/main/item-pile-mod-title.jpg"
+			],
+			"dependencies": [
+				"ModComponent"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.51",
+				"mlversion": "0.7.2"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/moosemeat817/ItemPiles/releases/download/3.0.0/ItemPiles.modcomponent"
+				]
+			},
+			"aliases": [],
+			"replaces": []
+		},
+		{
+			"type": "mod",
 			"version": "1.4.0",
 			"name": "Lithar's Ridge",
 			"displayName": "",
