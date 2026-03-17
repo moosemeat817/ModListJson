@@ -412,7 +412,7 @@
 			],
 			"gameversion": [],
 			"images": [
-				"https://github.com/moosemeat817/ModListJson/blob/main/item-pile-mod-title.jpg"
+				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/item-pile-mod-title.jpg"
 			],
 			"dependencies": [
 				"ModComponent"
