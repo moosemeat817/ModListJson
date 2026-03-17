@@ -869,7 +869,7 @@
 			},
 			"updater": {
 				"enable": true,
-				"downloads": [https://github.com/moosemeat817/StoryModeCollectibles/releases/download/2.1.0/StorymodeCollectibles.modcomponent]
+				"downloads": ["https://github.com/moosemeat817/StoryModeCollectibles/releases/download/2.1.0/StorymodeCollectibles.modcomponent"]
 			},
 			"aliases": []
 		},
@@ -955,7 +955,7 @@
 			},
 			"updater": {
 				"enable": true,
-				"downloads": [https://github.com/moosemeat817/WolfskinScarf/releases/download/2.0.0/WolfskinScarf.modcomponent]
+				"downloads": ["https://github.com/moosemeat817/WolfskinScarf/releases/download/2.0.0/WolfskinScarf.modcomponent"]
 			},
 			"aliases": []
 		}
