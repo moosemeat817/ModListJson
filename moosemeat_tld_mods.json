@@ -353,6 +353,48 @@
 		},
 		{
 			"type": "mod",
+			"version": "2.1.0",
+			"name": "Interior Wall Decorations",
+			"displayName": "",
+			"author": "MooseMeat",
+			"previousAuthors": "Atlas Lumi, Thekillergreece, stmSantana",
+			"released": "2026-04-26",
+			"updated": "2026-04-26",
+			"downloadURL": "https://github.com/moosemeat817/InteriorWallDecorations/releases/download/2.1.0/InteriorWallDecorations.zip",
+			"modURL": "https://github.com/moosemeat817/InteriorWallDecorations",
+			"description": "Let's you decorate your base with pictures, and upload your own.",
+			"tags": "",
+			"categories": [
+				"Gameplay"
+			],
+			"gameversion": [
+				"tftft"
+			],
+			"images": [
+				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/IWD1.jpg"
+			],
+			"dependencies": [
+				"ModComponent"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.51",
+				"mlversion": "0.7.2"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
 			"version": "1.2.0",
 			"name": "InventoryReassignments",
 			"displayName": "",
