@@ -415,7 +415,7 @@
 				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/list_icon_infinitefires.jpg"
 			],
 			"dependencies": [
-				""
+				"Alternative Actions"
 			],
 			"status": {
 				"working": true,
