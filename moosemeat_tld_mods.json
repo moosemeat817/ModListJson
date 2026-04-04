@@ -396,6 +396,49 @@
 		},
 		{
 			"type": "mod",
+			"version": "1.4.0",
+			"name": "Infinite Fires",
+			"displayName": "",
+			"author": "MooseMeat",
+			"previousAuthors": "DigitalZombie",
+			"released": "2026-04-04",
+			"updated": "2026-04-04",
+			"downloadURL": "https://github.com/moosemeat817/InfiniteFires/releases/download/1.4.0/InfiniteFiresDLC.dll",
+			"modURL": "https://github.com/moosemeat817/InfiniteFires",
+			"description": "It was always burning, since the world's been turning.",
+			"tags": "",
+			"categories": [
+				"Gameplay"
+			],
+			"gameversion": [],
+			"images": [
+				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/list_icon_infinitefires.jpg"
+			],
+			"dependencies": [
+				""
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.52",
+				"mlversion": "0.7.2"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/moosemeat817/InfiniteFires/releases/download/1.4.0/InfiniteFiresDLC.dll"
+				]
+			},
+			"aliases": [],
+			"replaces": []
+		},
+		{
+			"type": "mod",
 			"version": "2.1.0",
 			"name": "Interior Wall Decorations",
 			"displayName": "",
