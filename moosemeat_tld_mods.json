@@ -396,14 +396,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.4.0",
+			"version": "1.5.0",
 			"name": "Infinite Fires",
 			"displayName": "",
 			"author": "MooseMeat",
 			"previousAuthors": "DigitalZombie",
 			"released": "2026-04-04",
-			"updated": "2026-04-04",
-			"downloadURL": "https://github.com/moosemeat817/InfiniteFires/releases/download/1.4.0/InfiniteFiresDLC.dll",
+			"updated": "2026-04-08",
+			"downloadURL": "https://github.com/moosemeat817/InfiniteFires/releases/download/1.5.0/InfiniteFiresDLC.dll",
 			"modURL": "https://github.com/moosemeat817/InfiniteFires",
 			"description": "It was always burning, since the world's been turning.",
 			"tags": "",
@@ -415,7 +415,7 @@
 				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/list_icon_infinitefires.jpg"
 			],
 			"dependencies": [
-				"AlternativeActions"
+				""
 			],
 			"status": {
 				"working": true,
@@ -431,7 +431,7 @@
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/moosemeat817/InfiniteFires/releases/download/1.4.0/InfiniteFiresDLC.dll"
+					"https://github.com/moosemeat817/InfiniteFires/releases/download/1.5.0/InfiniteFiresDLC.dll"
 				]
 			},
 			"aliases": [],
