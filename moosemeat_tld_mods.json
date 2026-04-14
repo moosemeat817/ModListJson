@@ -440,8 +440,8 @@
 		{
 			"type": "mod",
 			"version": "2.1.0",
-			"name": "Interior Wall Decorations",
-			"displayName": "",
+			"name": "MyPicturesMod",
+			"displayName": "Interior Wall Decorations",
 			"author": "MooseMeat",
 			"previousAuthors": "Atlas Lumi, Thekillergreece, stmSantana",
 			"released": "2026-03-26",
@@ -474,7 +474,7 @@
 				"mlversion": "0.7.2"
 			},
 			"updater": {
-				"enable": true,
+				"enable": false,
 				"downloads": []
 			},
 			"aliases": []
