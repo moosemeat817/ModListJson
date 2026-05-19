@@ -830,6 +830,49 @@
 		},
 		{
 			"type": "mod",
+			"version": "1.3.0",
+			"name": "Randomize Interloper Rare Spawns",
+			"displayName": "",
+			"author": "MooseMeat",
+			"previousAuthors": "DS5678",
+			"released": "2026-05-19",
+			"updated": "2026-05-19",
+			"downloadURL": "https://github.com/moosemeat817/RandomizeInterloperRareSpawns/releases/download/1.3.0/RandomizeInterloperRareSpawns.zip",
+			"modURL": "https://github.com/moosemeat817/RandomizeInterloperRareSpawns",
+			"description": "About A mod for The Long Dark that randomizes Interloper loot.",
+			"tags": "",
+			"categories": [
+				"Gameplay"
+			],
+			"gameversion": [],
+			"images": [
+				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/RandomizeInterloperRareSpawns.png"
+			],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.55",
+				"mlversion": "0.7.2"
+			},
+			"updater": {
+				"enable": false,
+				"downloads": [
+					""
+				]
+			},
+			"aliases": [],
+			"replaces": []
+		},
+		{
+			"type": "mod",
 			"version": "1.1.0",
 			"name": "Ravine Bridge Fix",
 			"displayName": "",
