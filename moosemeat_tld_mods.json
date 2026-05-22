@@ -144,7 +144,7 @@
 			"updated": "2026-05-20",
 			"downloadURL": "https://github.com/moosemeat817/CoastalConnection/releases/download/1.1.0/CoastalConnection.dll",
 			"modURL": "https://github.com/moosemeat817/CoastalConnection",
-			"description": "Allows you to adjust the crafting location for vanilla craftable items.",
+			"description": "This mod connects Coastal Highway and Bleak Inlet by their shared road.",
 			"tags": "",
 			"categories": [
 				"Gameplay"
