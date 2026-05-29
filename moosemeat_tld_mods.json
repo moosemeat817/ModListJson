@@ -718,7 +718,7 @@
 				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/NoCairns.png"
 			],
 			"dependencies": [
-				"ModSettings",
+				"ModSettings"
 			],
 			"status": {
 				"working": true,
@@ -1259,7 +1259,7 @@
 			},
 			"aliases": [],
 			"replaces": []
-		},	
+		},
 		{
 			"type": "mod",
 			"version": "2.0",
