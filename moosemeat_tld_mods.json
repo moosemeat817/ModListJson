@@ -567,14 +567,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "3.0.0",
+			"version": "3.0.1",
 			"name": "Item Piles",
 			"displayName": "",
 			"author": "MooseMeat",
 			"previousAuthors": "Atlas Lumi",
 			"released": "2026-03-17",
 			"updated": "2026-03-17",
-			"downloadURL": "https://github.com/moosemeat817/ItemPiles/releases/download/3.0.0/ItemPiles.modcomponent",
+			"downloadURL": "https://github.com/moosemeat817/ItemPiles/releases/download/3.0.1/ItemPiles.modcomponent",
 			"modURL": "https://github.com/moosemeat817/ItemPiles",
 			"description": "Adds blueprints for stacked items.",
 			"tags": "",
@@ -602,7 +602,7 @@
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/moosemeat817/ItemPiles/releases/download/3.0.0/ItemPiles.modcomponent"
+					"https://github.com/moosemeat817/ItemPiles/releases/download/3.0.1/ItemPiles.modcomponent"
 				]
 			},
 			"aliases": [],
