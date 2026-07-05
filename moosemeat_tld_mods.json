@@ -671,7 +671,7 @@
 			],
 			"gameversion": [],
 			"images": [
-				"https://github.com/moosemeat817/ModListJson/blob/main/MindfulNeighborhood.png"
+				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/MindfulNeighborhood.png"
 			],
 			"dependencies": [
 				"ModSettings",
