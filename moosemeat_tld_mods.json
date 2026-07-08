@@ -655,14 +655,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.0",
+			"version": "1.1.0",
 			"name": "Mindful Neighborhood",
 			"displayName": "",
 			"author": "MooseMeat",
 			"previousAuthors": "",
 			"released": "2026-07-05",
 			"updated": "2026-07-05",
-			"downloadURL": "https://github.com/moosemeat817/MindfulNeighborhood/releases/download/1.0.0/MindfulNeighborhood.dll",
+			"downloadURL": "https://github.com/moosemeat817/MindfulNeighborhood/releases/download/1.1.0/MindfulNeighborhood.dll",
 			"modURL": "https://github.com/moosemeat817/MindfulNeighborhood",
 			"description": "This mod adds a security hut, fishing hut, storage shed and hunter's blind to the Mindful Cabin Area.  It also replaces the potbelly stove with a fireplace in the Mindful Cabin.  Finally, it moves the cabin from Justy's hovel to the Mindful Cabin area.",
 			"tags": "",
@@ -692,7 +692,7 @@
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/moosemeat817/MindfulNeighborhood/releases/download/1.0.0/MindfulNeighborhood.dll"
+					"https://github.com/moosemeat817/MindfulNeighborhood/releases/download/1.1.0/MindfulNeighborhood.dll"
 				]
 			},
 			"aliases": [],
