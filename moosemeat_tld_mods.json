@@ -48,6 +48,44 @@
 			"replaces": []
 		},
 		{
+			"type": "plugin",
+			"version": "2.0.1",
+			"name": "AutoUpdatingPlugin",
+			"displayName": "Auto Updating Plugin",
+			"author": "STBlade, ds5678",
+			"previousAuthors": "",
+			"released": "",
+			"updated": "2026-09-06",
+			"downloadURL": "https://github.com/moosemeat817/AutoUpdatePlugin/releases/download/2.0.1/AutoUpdatingPlugin.dll",
+			"modURL": "https://github.com/moosemeat817/AutoUpdatePlugin",
+			"description": "Plugin. Updates most Mods & Plugins automatically.",
+			"tags": "",
+			"categories": [],
+			"gameversion": [
+				"vanilla"
+			],
+			"images": [
+			"https://github.com/dommrogers/mod_list/blob/master/aup.png?raw=true"
+			],
+			"dependencies": [],
+			"status": {
+				"working": false,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.55",
+				"mlversion": "0.7.2"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
 			"type": "mod",
 			"version": "1.0.1",
 			"name": "Choose Starting Gear Redux",
