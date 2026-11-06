@@ -69,7 +69,7 @@
 			],
 			"dependencies": [],
 			"status": {
-				"working": true,
+				"working": false,
 				"beta": false,
 				"patchnotes": "",
 				"notes": "",
@@ -158,7 +158,7 @@
 				"beta": false,
 				"patchnotes": "",
 				"notes": "",
-				"issues": ""
+				"issues": "Crampons will reset to 100% condition after being detached from footwear"
 			},
 			"testedon": {
 				"tldversion": "2.60",
