@@ -913,14 +913,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.4.0",
+			"version": "1.5.0",
 			"name": "Predator Spawn Selector",
 			"displayName": "",
 			"author": "MooseMeat",
 			"previousAuthors": "",
 			"released": "2025-08-03",
-			"updated": "2026-08-15",
-			"downloadURL": "https://github.com/moosemeat817/PredatorSpawnSelector/releases/download/1.4.0/PredatorSpawnSelector.dll",
+			"updated": "2026-11-07",
+			"downloadURL": "https://github.com/moosemeat817/PredatorSpawnSelector/releases/download/1.5.0/PredatorSpawnSelector.dll",
 			"modURL": "https://github.com/moosemeat817/PredatorSpawnSelector",
 			"description": "Enable or disable predator spawns by region and select which type of wolves or bears for each region. ***This mod replaces both Remove Cougars and Timberwolves Anywhere***",
 			"tags": "",
@@ -935,20 +935,20 @@
 				"ModSettings"
 			],
 			"status": {
-				"working": false,
+				"working": true,
 				"beta": false,
 				"patchnotes": "",
 				"notes": "",
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.55",
+				"tldversion": "2.60",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/moosemeat817/PredatorSpawnSelector/releases/download/1.4.0/PredatorSpawnSelector.dll"
+					"https://github.com/moosemeat817/PredatorSpawnSelector/releases/download/1.5.0/PredatorSpawnSelector.dll"
 				]
 			},
 			"aliases": [],
