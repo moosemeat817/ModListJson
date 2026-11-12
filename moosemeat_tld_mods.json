@@ -48,44 +48,6 @@
 			"replaces": []
 		},
 		{
-			"type": "plugin",
-			"version": "2.0.1",
-			"name": "AutoUpdatingPlugin",
-			"displayName": "Auto Updating Plugin",
-			"author": "STBlade, ds5678",
-			"previousAuthors": "",
-			"released": "",
-			"updated": "2026-09-06",
-			"downloadURL": "https://github.com/moosemeat817/AutoUpdatePlugin/releases/download/2.0.1/AutoUpdatingPlugin.dll",
-			"modURL": "https://github.com/moosemeat817/AutoUpdatePlugin",
-			"description": "Plugin. Updates most Mods & Plugins automatically.",
-			"tags": "",
-			"categories": [],
-			"gameversion": [
-				"vanilla"
-			],
-			"images": [
-			"https://github.com/dommrogers/mod_list/blob/master/aup.png?raw=true"
-			],
-			"dependencies": [],
-			"status": {
-				"working": false,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.55",
-				"mlversion": "0.7.2"
-			},
-			"updater": {
-				"enable": true,
-				"downloads": []
-			},
-			"aliases": []
-		},
-		{
 			"type": "mod",
 			"version": "1.1.0",
 			"name": "Choose Starting Gear Redux",
@@ -124,49 +86,6 @@
 				"downloads": [
 					"https://github.com/moosemeat817/ChooseStartingGearRedux/releases/download/1.1.0/ChooseStartingGearRedux.dll"
 				]
-			},
-			"aliases": [],
-			"replaces": []
-		},
-		{
-			"type": "mod",
-			"version": "1.2.0",
-			"name": "Clothing Expanded",
-			"displayName": "",
-			"author": "MooseMeat",
-			"previousAuthors": "",
-			"released": "2026-03-28",
-			"updated": "2026-11-06",
-			"downloadURL": "https://github.com/moosemeat817/ClothingExpanded/releases/download/1.2.0/ClothingExpanded.zip",
-			"modURL": "https://github.com/moosemeat817/ClothingExpanded",
-			"description": "Adds a way to combine accessories with clothing to have even more accessories equipped at the same time",
-			"tags": "",
-			"categories": [
-				"Quality of Life",
-				"Gear Items",
-				"Clothing"
-			],
-			"gameversion": [],
-			"images": [
-				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/Clothing_Expanded.png"
-			],
-			"dependencies": [
-				"ModComponent"
-			],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "",
-				"issues": "Crampons will reset to 100% condition after being detached from footwear"
-			},
-			"testedon": {
-				"tldversion": "2.60",
-				"mlversion": "0.7.2"
-			},
-			"updater": {
-				"enable": false,
-				"downloads": []
 			},
 			"aliases": [],
 			"replaces": []
@@ -253,49 +172,6 @@
 				"enable": true,
 				"downloads": [
 					"https://github.com/moosemeat817/CraftAnywhereRedux/releases/download/1.3.0/CraftAnywhereRedux.dll"
-				]
-			},
-			"aliases": [],
-			"replaces": []
-		},
-		{
-			"type": "mod",
-			"version": "3.1.0",
-			"name": "CustomWhiteout",
-			"displayName": "",
-			"author": "MooseMeat",
-			"previousAuthors": "MikeyPdog , ds5678",
-			"released": "2025-02-20",
-			"updated": "2026-01-03",
-			"downloadURL": "https://github.com/moosemeat817/CustomWhiteout/releases/download/3.1.0/CustomWhiteout.dll",
-			"modURL": "https://github.com/moosemeat817/CustomWhiteout",
-			"description": "A mod for the Long Dark letting you experience a custom whiteout challenge.",
-			"tags": "",
-			"categories": [
-				"Gameplay"
-			],
-			"gameversion": [],
-			"images": [
-				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/ML_CustomWhiteout.jpg"
-			],
-			"dependencies": [
-				"ModSettings"
-			],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.51",
-				"mlversion": "0.7.2"
-			},
-			"updater": {
-				"enable": true,
-				"downloads": [
-					"https://github.com/moosemeat817/CustomWhiteout/releases/download/3.1.0/CustomWhiteout.dll"
 				]
 			},
 			"aliases": [],
@@ -518,48 +394,7 @@
 			"aliases": [],
 			"replaces": []
 		},
-		{
-			"type": "mod",
-			"version": "2.1.0",
-			"name": "MyPicturesMod",
-			"displayName": "Interior Wall Decorations",
-			"author": "MooseMeat",
-			"previousAuthors": "Atlas Lumi, Thekillergreece, stmSantana",
-			"released": "2026-03-26",
-			"updated": "2026-03-26",
-			"downloadURL": "https://github.com/moosemeat817/InteriorWallDecorations/releases/download/2.1.0/InteriorWallDecorations.zip",
-			"modURL": "https://github.com/moosemeat817/InteriorWallDecorations",
-			"description": "Let's you decorate your base with pictures, and upload your own.",
-			"tags": "",
-			"categories": [
-				"Gameplay"
-			],
-			"gameversion": [
-				"tftft"
-			],
-			"images": [
-				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/IWD1.jpg"
-			],
-			"dependencies": [
-				"ModComponent"
-			],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.51",
-				"mlversion": "0.7.2"
-			},
-			"updater": {
-				"enable": false,
-				"downloads": []
-			},
-			"aliases": []
-		},
+
 		{
 			"type": "mod",
 			"version": "1.2.0",
@@ -598,49 +433,6 @@
 				"enable": true,
 				"downloads": [
 					"https://github.com/moosemeat817/InventoryReassignments/releases/download/1.2.0/InventoryReassignments.dll"
-				]
-			},
-			"aliases": [],
-			"replaces": []
-		},
-		{
-			"type": "mod",
-			"version": "3.0.1",
-			"name": "Item Piles",
-			"displayName": "",
-			"author": "MooseMeat",
-			"previousAuthors": "Atlas Lumi",
-			"released": "2026-03-17",
-			"updated": "2026-07-03",
-			"downloadURL": "https://github.com/moosemeat817/ItemPiles/releases/download/3.0.1/ItemPiles.modcomponent",
-			"modURL": "https://github.com/moosemeat817/ItemPiles",
-			"description": "Adds blueprints for stacked items.",
-			"tags": "",
-			"categories": [
-				"Gameplay"
-			],
-			"gameversion": [],
-			"images": [
-				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/item-pile-mod-title.jpg"
-			],
-			"dependencies": [
-				"ModComponent"
-			],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.51",
-				"mlversion": "0.7.2"
-			},
-			"updater": {
-				"enable": true,
-				"downloads": [
-					"https://github.com/moosemeat817/ItemPiles/releases/download/3.0.1/ItemPiles.modcomponent"
 				]
 			},
 			"aliases": [],
@@ -867,49 +659,6 @@
 			},
 			"aliases": [],
 			"replaces": []
-		},
-		{
-			"type": "mod",
-			"version": "0.7.0",
-			"name": "Photo of a Loved One",
-			"displayName": "",
-			"author": "MooseMeat",
-			"previousAuthors": "Atlas Lumi",
-			"released": "2026-03-17",
-			"updated": "2026-03-17",
-			"downloadURL": "https://github.com/moosemeat817/Photo-of-a-Loved-One/releases/download/0.7.0/PhotoOfALovedOne.zip",
-			"modURL": "https://github.com/moosemeat817/Photo-of-a-Loved-One",
-			"description": "This mod allows you to carry a customizable picture of something you care about.",
-			"tags": "",
-			"categories": [
-				"Gameplay"
-			],
-			"gameversion": [
-				"vanilla",
-				"tftft"
-			],
-			"images": [
-				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/photomod.png"
-			],
-			"dependencies": [
-				"ModSettings"
-			],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.51",
-				"mlversion": "0.7.2"
-			},
-			"updater": {
-				"enable": false,
-				"downloads": []
-			},
-			"aliases": []
 		},
 		{
 			"type": "mod",
@@ -1257,48 +1006,7 @@
 			"aliases": [],
 			"replaces": []
 		},
-		{
-			"type": "mod",
-			"version": "2.1.0",
-			"name": "Story Mode Collectibles",
-			"displayName": "",
-			"author": "",
-			"previousAuthors": "",
-			"released": "2026-03-17",
-			"updated": "2026-03-17",
-			"downloadURL": "https://github.com/moosemeat817/StoryModeCollectibles/releases/download/2.1.0/StorymodeCollectibles.modcomponent",
-			"modURL": "https://github.com/moosemeat817/StoryModeCollectibles",
-			"description": "Adds collectible items from Wintermute into survival mode.",
-			"tags": "",
-			"categories": [
-				"Gear Items"
-			],
-			"gameversion": [
-				"tftft"
-			],
-			"images": [
-				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/storymodecollectibles.png"
-			],
-			"dependencies": [
-				"ModComponent"
-			],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.51",
-				"mlversion": "0.7.2"
-			},
-			"updater": {
-				"enable": true,
-				"downloads": ["https://github.com/moosemeat817/StoryModeCollectibles/releases/download/2.1.0/StorymodeCollectibles.modcomponent"]
-			},
-			"aliases": []
-		},
+		
 		{
 			"type": "mod",
 			"version": "1.1.0",
@@ -1342,48 +1050,6 @@
 			},
 			"aliases": [],
 			"replaces": []
-		},
-		{
-			"type": "mod",
-			"version": "2.0",
-			"name": "TLD-WolfskinScarf",
-			"displayName": "",
-			"author": "MooseMeat",
-			"previousAuthors": "Atlas Lumi",
-			"released": "2026-03-17",
-			"updated": "2026-03-17",
-			"downloadURL": "https://github.com/moosemeat817/WolfskinScarf/releases/download/2.0.0/WolfskinScarf.modcomponent",
-			"modURL": "https://github.com/moosemeat817/WolfskinScarf",
-			"description": "Adds a new craftable scarf made of wolf fur.",
-			"tags": "",
-			"categories": [
-				"Clothing"
-			],
-			"gameversion": [
-				"vanilla"
-			],
-			"images": [
-				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/wolfscarf.png"
-			],
-			"dependencies": [
-				"ModComponent"
-			],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.51",
-				"mlversion": "0.7.2"
-			},
-			"updater": {
-				"enable": true,
-				"downloads": ["https://github.com/moosemeat817/WolfskinScarf/releases/download/2.0.0/WolfskinScarf.modcomponent"]
-			},
-			"aliases": []
 		}
 	]
 }
