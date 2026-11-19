@@ -92,49 +92,6 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.1.0",
-			"name": "Coastal Connection",
-			"displayName": "",
-			"author": "MooseMeat",
-			"previousAuthors": "ds5678",
-			"released": "2026-05-20",
-			"updated": "2026-05-20",
-			"downloadURL": "https://github.com/moosemeat817/CoastalConnection/releases/download/1.1.0/CoastalConnection.dll",
-			"modURL": "https://github.com/moosemeat817/CoastalConnection",
-			"description": "This mod connects Coastal Highway and Bleak Inlet by their shared road.",
-			"tags": "",
-			"categories": [
-				"Gameplay"
-			],
-			"gameversion": [],
-			"images": [
-				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/CoastalConnection.jpg"
-			],
-			"dependencies": [
-				""
-			],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.60",
-				"mlversion": "0.7.2"
-			},
-			"updater": {
-				"enable": true,
-				"downloads": [
-					"https://github.com/moosemeat817/CoastalConnection/releases/download/1.1.0/CoastalConnection.dll"
-				]
-			},
-			"aliases": [],
-			"replaces": []
-		},
-		{
-			"type": "mod",
 			"version": "1.3.0",
 			"name": "Craft Anywhere Redux",
 			"displayName": "",
@@ -353,50 +310,6 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.5.0",
-			"name": "Infinite Fires",
-			"displayName": "",
-			"author": "MooseMeat",
-			"previousAuthors": "DigitalZombie",
-			"released": "2026-04-04",
-			"updated": "2026-04-08",
-			"downloadURL": "https://github.com/moosemeat817/InfiniteFires/releases/download/1.5.0/InfiniteFiresDLC.dll",
-			"modURL": "https://github.com/moosemeat817/InfiniteFires",
-			"description": "It was always burning, since the world's been turning.",
-			"tags": "",
-			"categories": [
-				"Gameplay"
-			],
-			"gameversion": [],
-			"images": [
-				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/list_icon_infinitefires.jpg"
-			],
-			"dependencies": [
-				""
-			],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.60",
-				"mlversion": "0.7.2"
-			},
-			"updater": {
-				"enable": true,
-				"downloads": [
-					"https://github.com/moosemeat817/InfiniteFires/releases/download/1.5.0/InfiniteFiresDLC.dll"
-				]
-			},
-			"aliases": [],
-			"replaces": []
-		},
-
-		{
-			"type": "mod",
 			"version": "1.2.0",
 			"name": "InventoryReassignments",
 			"displayName": "",
@@ -523,50 +436,6 @@
 				"enable": true,
 				"downloads": [
 					"https://github.com/moosemeat817/MindfulNeighborhood/releases/download/1.1.0/MindfulNeighborhood.dll"
-				]
-			},
-			"aliases": [],
-			"replaces": []
-		},
-		{
-			"type": "mod",
-			"version": "1.0.0",
-			"name": "Misery Mode Plus",
-			"displayName": "",
-			"author": "MooseMeat",
-			"previousAuthors": "",
-			"released": "2026-03-10",
-			"updated": "2026-03-10",
-			"downloadURL": "https://github.com/moosemeat817/MiseryModePlus/releases/download/1.0.0/MiseryModePlus.dll",
-			"modURL": "https://github.com/moosemeat817/MiseryModePlus",
-			"description": "Mod for The Long Dark that adds more spawn locations in misery mode and adds a custom setting to enable misery afflictions for custom runs.  Formerly Additional Misery Spawns and Misery in Custom Games.",
-			"tags": "",
-			"categories": [
-				"Gameplay"
-			],
-			"gameversion": [],
-			"images": [
-				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/ML_MiseryModePlus.jpg"
-			],
-			"dependencies": [
-				"ModSettings",
-				"ModData"
-			],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.60",
-				"mlversion": "0.7.2"
-			},
-			"updater": {
-				"enable": true,
-				"downloads": [
-					"https://github.com/moosemeat817/MiseryModePlus/releases/download/1.0.0/MiseryModePlus.dll"
 				]
 			},
 			"aliases": [],
@@ -748,49 +617,6 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.3.0",
-			"name": "Randomize Interloper Rare Spawns",
-			"displayName": "",
-			"author": "MooseMeat",
-			"previousAuthors": "DS5678",
-			"released": "2026-05-19",
-			"updated": "2026-05-19",
-			"downloadURL": "https://github.com/moosemeat817/RandomizeInterloperRareSpawns/releases/download/1.3.0/RandomizeInterloperRareSpawns.zip",
-			"modURL": "https://github.com/moosemeat817/RandomizeInterloperRareSpawns",
-			"description": "About A mod for The Long Dark that randomizes Interloper loot.",
-			"tags": "",
-			"categories": [
-				"Gameplay"
-			],
-			"gameversion": [],
-			"images": [
-				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/RandomizeInterloperRareSpawns.png"
-			],
-			"dependencies": [
-				"ModSettings"
-			],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.60",
-				"mlversion": "0.7.2"
-			},
-			"updater": {
-				"enable": false,
-				"downloads": [
-					""
-				]
-			},
-			"aliases": [],
-			"replaces": []
-		},
-		{
-			"type": "mod",
 			"version": "1.1.0",
 			"name": "Ravine Bridge Fix",
 			"displayName": "",
@@ -870,49 +696,6 @@
 				"enable": true,
 				"downloads": [
 					"https://github.com/moosemeat817/RecordingUtils/releases/download/0.5.0/RecordingUtils.dll"
-				]
-			},
-			"aliases": [],
-			"replaces": []
-		},
-		{
-			"type": "mod",
-			"version": "1.3.0",
-			"name": "Seasoned Interloping",
-			"displayName": "",
-			"author": "MooseMeat",
-			"previousAuthors": "ds5678",
-			"released": "2026-05-20",
-			"updated": "2026-05-20",
-			"downloadURL": "https://github.com/moosemeat817/SeasonedInterloping/releases/download/1.3.0/SeasonedInterloping.dll",
-			"modURL": "https://github.com/moosemeat817/SeasonedInterloping",
-			"description": "Mod for The Long Dark that adds Forsaken Airfield, ZOC, Sundered Pass and Bleak Inlet to the Interloper region list.",
-			"tags": "",
-			"categories": [
-				"Gameplay"
-			],
-			"gameversion": [],
-			"images": [
-				"https://raw.githubusercontent.com/moosemeat817/ModListJson/main/SeasonedInterloping.png"
-			],
-			"dependencies": [
-				""
-			],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.60",
-				"mlversion": "0.7.2"
-			},
-			"updater": {
-				"enable": true,
-				"downloads": [
-					"https://github.com/moosemeat817/SeasonedInterloping/releases/download/1.3.0/SeasonedInterloping.dll"
 				]
 			},
 			"aliases": [],
